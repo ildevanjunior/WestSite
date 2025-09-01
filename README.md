@@ -52,7 +52,7 @@ Este é um projeto web estático, então você não precisa de nenhuma ferrament
 
 2.  **Navegue até o diretório:**
     ```bash
-    cd /barbearia
+    cd /WestSide
     ```
 
 3.  **Abra o arquivo `index.html`:**
