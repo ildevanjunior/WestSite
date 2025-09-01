@@ -47,7 +47,7 @@ Este é um projeto web estático, então você não precisa de nenhuma ferrament
 
 1.  **Clone o repositório:**
     ```bash
-    git clone https://github.com/ildevanjunior/barbearia
+    git clone https://github.com/ildevanjunior/WestSite
     ```
 
 2.  **Navegue até o diretório:**
